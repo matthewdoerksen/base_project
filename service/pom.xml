@@ -36,6 +36,17 @@
         <!--
            Frameworks used in the service, e.g. Dependency Injection, Database
         -->
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.8.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.10.19</version>
+        </dependency>
+
 
         <!--
             External service clients
